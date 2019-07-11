@@ -4,6 +4,7 @@
 
 .DS_Store
 SwiftPubKaiSrc/
+test_app/
 
 ## Build generated
 build/
